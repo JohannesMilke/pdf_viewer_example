@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28918534719",
+    "project_id": "pdf-viewer-ff3a2",
+    "storage_bucket": "pdf-viewer-ff3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28918534719:android:17141d521f8ca5ea439e8a",
+        "android_client_info": {
+          "package_name": "com.example.pdf_viewer_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28918534719-77fcprno7hhi7mbn2p0l0r8nbabi0bgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArN4ghR0TFGg5pRKcqPp3dQwGeAfqYWgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28918534719-77fcprno7hhi7mbn2p0l0r8nbabi0bgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

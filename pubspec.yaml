@@ -1,0 +1,36 @@
+name: pdf_viewer_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+
+  # display PDF
+  flutter_pdfview: ^1.0.4
+
+  # path
+  file_picker: ^2.1.6
+  path: ^1.7.0
+  path_provider: ^1.6.27
+
+  # download PDF
+  http: ^0.12.2
+
+  # load from Firebase
+  firebase_core: ^0.7.0
+  firebase_storage: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
